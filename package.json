@@ -1,0 +1,23 @@
+{
+  "name": "honeypot",
+  "version": "1.0.0",
+  "description": "Recognize honeypot using Web3 on Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "honeypot",
+    "web3.js"
+  ],
+  "author": "luckysmile",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "sequelize": "^6.17.0",
+    "web3": "^1.7.0"
+  }
+}

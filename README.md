@@ -10,8 +10,6 @@
 
 ### - ethereum
 api address : http://localhost:8080/api/check_eth_honeypot/
-	"contract_address":
 
 ### - binance smart chain
 api address : http://localhost:8080/api/check_bsc_bsc/
-	"contract_address":
